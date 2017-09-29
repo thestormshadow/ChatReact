@@ -1,0 +1,21 @@
+{
+  "name": "source",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "radium": "^0.19.4",
+    "react": "^15.6.1",
+    "react-animations": "^0.1.0",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.13",
+    "react-timer-mixin": "^0.13.3",
+    "socket.io-client": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
